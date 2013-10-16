@@ -30,3 +30,7 @@ Just a few to start with:
 [Django Bootstrap Starter](https://github.com/sammla/django-bootstrap-starter)
 
 ## Ruby
+
+#### Sinatra
+
+[Sinatra Boilerplate](https://github.com/l3ck/sinatra-boilerplate)
