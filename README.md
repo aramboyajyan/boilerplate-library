@@ -13,6 +13,10 @@ Just a few to start with:
 
 ## PHP
 
+#### CodeIgniter
+
+[Bonfire](https://github.com/ci-bonfire/Bonfire)
+
 ## JavaScript
 
 #### AngularJS
