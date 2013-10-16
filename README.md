@@ -2,39 +2,42 @@
 
 A library of boilerplate projects for any framework and any programming language.
 
-## Programming languages
+## Languages
 
 Just a few to start with:
 
-- PHP
-- JavaScript
-- Python
-- Ruby
+- [PHP](#php)
+- [JavaScript](#javascript)
+- [Python](#python)
+- [Ruby](#ruby)
+- [HTML](#html)
 
 ## PHP
 
-#### CodeIgniter
+##### CodeIgniter
 
 [Bonfire](https://github.com/ci-bonfire/Bonfire)
 
 ## JavaScript
 
-#### AngularJS
+##### AngularJS
 
 [NG boilerplate](https://github.com/ngbp/ng-boilerplate)
 
 ## Python
 
-#### Flask
+##### Flask
 
 [Flask Boilerplate](https://github.com/mjhea0/flask-boilerplate)
 
-#### Django
+##### Django
 
 [Django Bootstrap Starter](https://github.com/sammla/django-bootstrap-starter)
 
 ## Ruby
 
-#### Sinatra
+##### Sinatra
 
 [Sinatra Boilerplate](https://github.com/l3ck/sinatra-boilerplate)
+
+## HTML
