@@ -15,6 +15,10 @@ Just a few to start with:
 
 ## JavaScript
 
+#### AngularJS
+
+[NG boilerplate](https://github.com/ngbp/ng-boilerplate)
+
 ## Python
 
 #### Flask
