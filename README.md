@@ -16,28 +16,38 @@ Just a few to start with:
 
 ##### CodeIgniter
 
-[Bonfire](https://github.com/ci-bonfire/Bonfire)
+- [Bonfire](https://github.com/ci-bonfire/Bonfire)
+
+[Back to top](#languages)
 
 ## JavaScript
 
 ##### AngularJS
 
-[NG boilerplate](https://github.com/ngbp/ng-boilerplate)
+- [NG boilerplate](https://github.com/ngbp/ng-boilerplate)
+
+[Back to top](#languages)
 
 ## Python
 
 ##### Flask
 
-[Flask Boilerplate](https://github.com/mjhea0/flask-boilerplate)
+- [Flask Boilerplate](https://github.com/mjhea0/flask-boilerplate)
 
 ##### Django
 
-[Django Bootstrap Starter](https://github.com/sammla/django-bootstrap-starter)
+- [Django Bootstrap Starter](https://github.com/sammla/django-bootstrap-starter)
+
+[Back to top](#languages)
 
 ## Ruby
 
 ##### Sinatra
 
-[Sinatra Boilerplate](https://github.com/l3ck/sinatra-boilerplate)
+- [Sinatra Boilerplate](https://github.com/l3ck/sinatra-boilerplate)
+
+[Back to top](#languages)
 
 ## HTML
+
+[Back to top](#languages)
