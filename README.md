@@ -21,4 +21,8 @@ Just a few to start with:
 
 [Flask Boilerplate](https://github.com/mjhea0/flask-boilerplate)
 
+#### Django
+
+[Django Bootstrap Starter](https://github.com/sammla/django-bootstrap-starter)
+
 ## Ruby
