@@ -14,6 +14,10 @@ Just a few to start with:
 
 ## PHP
 
+##### Slim
+
+- [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton)
+
 ##### CodeIgniter
 
 - [Bonfire](https://github.com/ci-bonfire/Bonfire)
