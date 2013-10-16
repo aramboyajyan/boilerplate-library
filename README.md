@@ -22,7 +22,7 @@ Just a few to start with:
 
 - [Bonfire](https://github.com/ci-bonfire/Bonfire)
 
-[Back to top](#languages)
+[↑ Back to top](#languages)
 
 ## JavaScript
 
@@ -30,7 +30,7 @@ Just a few to start with:
 
 - [NG boilerplate](https://github.com/ngbp/ng-boilerplate)
 
-[Back to top](#languages)
+[↑ Back to top](#languages)
 
 ## Python
 
@@ -42,7 +42,7 @@ Just a few to start with:
 
 - [Django Bootstrap Starter](https://github.com/sammla/django-bootstrap-starter)
 
-[Back to top](#languages)
+[↑ Back to top](#languages)
 
 ## Ruby
 
@@ -50,8 +50,8 @@ Just a few to start with:
 
 - [Sinatra Boilerplate](https://github.com/l3ck/sinatra-boilerplate)
 
-[Back to top](#languages)
+[↑ Back to top](#languages)
 
 ## HTML
 
-[Back to top](#languages)
+[↑ Back to top](#languages)
