@@ -14,11 +14,11 @@ Just a few to start with:
 
 ## PHP
 
-##### Slim
+##### [Slim](http://slimframework.com)
 
 - [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton)
 
-##### CodeIgniter
+##### [CodeIgniter](http://codeigniter.com)
 
 - [Bonfire](https://github.com/ci-bonfire/Bonfire)
 
@@ -26,7 +26,7 @@ Just a few to start with:
 
 ## JavaScript
 
-##### AngularJS
+##### [AngularJS](http://angularjs.org)
 
 - [NG boilerplate](https://github.com/ngbp/ng-boilerplate)
 
@@ -34,11 +34,11 @@ Just a few to start with:
 
 ## Python
 
-##### Flask
+##### [Flask](http://flask.pocoo.org/)
 
 - [Flask Boilerplate](https://github.com/mjhea0/flask-boilerplate)
 
-##### Django
+##### [Django](https://www.djangoproject.com/)
 
 - [Django Bootstrap Starter](https://github.com/sammla/django-bootstrap-starter)
 
@@ -46,7 +46,7 @@ Just a few to start with:
 
 ## Ruby
 
-##### Sinatra
+##### [Sinatra](http://www.sinatrarb.com/)
 
 - [Sinatra Boilerplate](https://github.com/l3ck/sinatra-boilerplate)
 
