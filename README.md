@@ -36,6 +36,10 @@ Just a few to start with:
 
 ## JavaScript
 
+##### [jQuery](http://jquery.com)
+
+- [jQuery Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate/)
+
 ##### [AngularJS](http://angularjs.org)
 
 - [NG boilerplate](https://github.com/ngbp/ng-boilerplate)
