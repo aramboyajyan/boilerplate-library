@@ -41,6 +41,10 @@ Just a few to start with:
 - [NG boilerplate](https://github.com/ngbp/ng-boilerplate)
 - [Angular Seed](https://github.com/angular/angular-seed)
 
+##### [Backbone](http://backbonejs.org/)
+
+- [Backbone Boilerplate](https://github.com/backbone-boilerplate/backbone-boilerplate)
+
 [↑ Back to top](#languages)
 
 ## Python
