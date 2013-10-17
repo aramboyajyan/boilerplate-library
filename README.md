@@ -21,6 +21,7 @@ Just a few to start with:
 ##### [CodeIgniter](http://codeigniter.com)
 
 - [Bonfire](https://github.com/ci-bonfire/Bonfire)
+- [HTML5 Boilerplate and Twitter Bootstrap Skeleton](https://github.com/vesparny/codeigniter-html5boilerplate-twitter-bootstrap)
 
 ##### [Yii](http://www.yiiframework.com)
 
