@@ -39,6 +39,7 @@ Just a few to start with:
 ##### [AngularJS](http://angularjs.org)
 
 - [NG boilerplate](https://github.com/ngbp/ng-boilerplate)
+- [Angular Seed](https://github.com/angular/angular-seed)
 
 [↑ Back to top](#languages)
 
