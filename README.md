@@ -90,3 +90,7 @@ Just a few to start with:
 ##### For Mac
 
 - [OSX Boilerplate](https://github.com/ChristianKienle/OSXBoilerplate)
+
+##### For iPhone/iPad
+
+- [iOS Boilerplate](https://github.com/gimenete/iOS-boilerplate)
