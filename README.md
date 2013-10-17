@@ -32,6 +32,7 @@ Just a few to start with:
 
 - [Underscores - A starter theme for WordPress](http://underscores.me/)
 - [Roots Starter Theme](https://github.com/roots/roots)
+- [Bones Starter Theme](https://github.com/eddiemachado/bones)
 - [WordPress Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate)
 
 [↑ Back to top](#languages)
