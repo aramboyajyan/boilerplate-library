@@ -72,6 +72,7 @@ Just a few to start with:
 ## HTML
 
 - [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
+- [HTML5 Mobile Boilerplate](https://github.com/h5bp/mobile-boilerplate)
 - [Twitter Bootstrap](http://getbootstrap.com)
 
 [↑ Back to top](#languages)
