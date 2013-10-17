@@ -27,6 +27,10 @@ Just a few to start with:
 
 - [Yii Boilerplate](https://github.com/clevertech/yiiboilerplate)
 
+##### [WordPress](http://wordpress.org)
+
+- [Underscores - A starter theme for WordPress](http://underscores.me/)
+
 [↑ Back to top](#languages)
 
 ## JavaScript
