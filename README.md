@@ -50,6 +50,7 @@ Just a few to start with:
 ##### [Django](https://www.djangoproject.com/)
 
 - [Django Bootstrap Starter](https://github.com/sammla/django-bootstrap-starter)
+- [Django Bootstrap Toolkit](https://github.com/dyve/django-bootstrap-toolkit)
 
 [↑ Back to top](#languages)
 
