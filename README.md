@@ -29,6 +29,10 @@ Just a few to start with:
 
 - [Yii Boilerplate](https://github.com/clevertech/yiiboilerplate)
 
+##### [Zend Framework](http://www.zend.com)
+
+- [Zend Framework Boilerplate 2](https://github.com/michael-romer/zfb2)
+
 ##### [WordPress](http://wordpress.org)
 
 - [Underscores - A starter theme for WordPress](http://underscores.me/)
