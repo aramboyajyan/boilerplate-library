@@ -31,6 +31,7 @@ Just a few to start with:
 ##### [WordPress](http://wordpress.org)
 
 - [Underscores - A starter theme for WordPress](http://underscores.me/)
+- [WordPress Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate)
 
 [↑ Back to top](#languages)
 
