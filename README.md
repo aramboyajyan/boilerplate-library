@@ -57,6 +57,7 @@ Just a few to start with:
 
 - [Django Bootstrap Starter](https://github.com/sammla/django-bootstrap-starter)
 - [Django Bootstrap Toolkit](https://github.com/dyve/django-bootstrap-toolkit)
+- [Django HTML5 Boilerplate](https://github.com/mike360/django-html5-boilerplate)
 
 [↑ Back to top](#languages)
 
