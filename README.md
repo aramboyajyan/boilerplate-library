@@ -22,6 +22,10 @@ Just a few to start with:
 
 - [Bonfire](https://github.com/ci-bonfire/Bonfire)
 
+##### [Yii](http://www.yiiframework.com)
+
+- [Yii Boilerplate](https://github.com/clevertech/yiiboilerplate)
+
 [↑ Back to top](#languages)
 
 ## JavaScript
