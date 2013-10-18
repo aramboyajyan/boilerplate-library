@@ -80,6 +80,7 @@ Just a few to start with:
 - [Sinatra Boilerplate](https://github.com/l3ck/sinatra-boilerplate)
 - [Riblits](https://github.com/Phrogz/riblits)
 - [Sinatra rspec bundler template](https://github.com/daddz/sinatra-rspec-bundler-template)
+- [Frank's Famous - a Heroku ready Sinatra boilerplate](https://github.com/kripy/franks-famous)
 
 [↑ Back to top](#languages)
 
