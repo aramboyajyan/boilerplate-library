@@ -79,6 +79,7 @@ Just a few to start with:
 
 - [Sinatra Boilerplate](https://github.com/l3ck/sinatra-boilerplate)
 - [Riblits](https://github.com/Phrogz/riblits)
+- [Sinatra rspec bundler template](https://github.com/daddz/sinatra-rspec-bundler-template)
 
 [↑ Back to top](#languages)
 
