@@ -78,6 +78,7 @@ Just a few to start with:
 ##### [Sinatra](http://www.sinatrarb.com/)
 
 - [Sinatra Boilerplate](https://github.com/l3ck/sinatra-boilerplate)
+- [Riblits](https://github.com/Phrogz/riblits)
 
 [↑ Back to top](#languages)
 
