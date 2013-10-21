@@ -56,6 +56,7 @@ Just a few to start with:
 ##### [Backbone](http://backbonejs.org/)
 
 - [Backbone Boilerplate](https://github.com/backbone-boilerplate/backbone-boilerplate)
+- [Backbone-Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate)
 
 [↑ Back to top](#languages)
 
