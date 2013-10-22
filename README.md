@@ -58,6 +58,10 @@ Just a few to start with:
 
 ## JavaScript
 
+##### Vanilla JS
+
+- [JavaScript Boilerplate](https://github.com/mdarif/JavaScript-Boilerplate)
+
 ##### [jQuery](http://jquery.com)
 
 - [jQuery Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate/)
