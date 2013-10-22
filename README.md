@@ -94,6 +94,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Node Boilerplate](https://github.com/robrighter/node-boilerplate)
 - [TodoMVC with NodeJS backend](https://github.com/addyosmani/backbone-boilerplates/tree/master/option7_node_socketio)
 - [NodeJS TDD Boilerplate](https://github.com/BryanDonovan/nodejs-tdd-boilerplate)
+- [Express Boilerplate](https://github.com/mape/node-express-boilerplate)
 
 ## Python
 
