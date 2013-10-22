@@ -37,6 +37,10 @@ Just a few to start with:
 
 - [Zend Framework Boilerplate 2](https://github.com/michael-romer/zfb2)
 
+##### [Drupal](http://drupal.org/)
+
+- [Drupal Boilerplate](https://github.com/Lullabot/drupal-boilerplate)
+
 ##### [WordPress](http://wordpress.org)
 
 - [Underscores - A starter theme for WordPress](http://underscores.me/)
