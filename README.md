@@ -91,6 +91,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 ##### [NodeJS](http://nodejs.org)
 
 - [Conference Website Boilerplate](https://github.com/braziljs/conf-boilerplate)
+- [Node Boilerplate](https://github.com/robrighter/node-boilerplate)
 
 ## Python
 
