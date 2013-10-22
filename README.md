@@ -44,6 +44,10 @@ Just a few to start with:
 - [Bones Starter Theme](https://github.com/eddiemachado/bones)
 - [WordPress Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate)
 
+##### [Magento](http://www.magentocommerce.com/)
+
+- [Magento Bootstrap](https://github.com/cvaldemar/magento-bootstrap)
+
 [↑ Back to top](#languages)
 
 ## JavaScript
