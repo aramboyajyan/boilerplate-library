@@ -62,6 +62,7 @@ Just a few to start with:
 
 - [JavaScript Boilerplate](https://github.com/mdarif/JavaScript-Boilerplate)
 - [JavaScript Project Boilerplate](https://github.com/young-steveo/javascript-project-boilerplate)
+- [JavaScript Library Boilerplate](https://github.com/cowboy/javascript-library-boilerplate)
 
 ##### [jQuery](http://jquery.com)
 
