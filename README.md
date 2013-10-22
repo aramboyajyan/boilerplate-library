@@ -47,6 +47,7 @@ Just a few to start with:
 ##### [Magento](http://www.magentocommerce.com/)
 
 - [Magento Bootstrap](https://github.com/cvaldemar/magento-bootstrap)
+- [Magento Boilerplate](https://github.com/jasonalvis/magento-boilerplate)
 
 [↑ Back to top](#languages)
 
