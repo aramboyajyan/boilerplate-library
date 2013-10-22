@@ -61,6 +61,7 @@ Just a few to start with:
 ##### Vanilla JS
 
 - [JavaScript Boilerplate](https://github.com/mdarif/JavaScript-Boilerplate)
+- [JavaScript Project Boilerplate](https://github.com/young-steveo/javascript-project-boilerplate)
 
 ##### [jQuery](http://jquery.com)
 
