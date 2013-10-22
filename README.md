@@ -48,6 +48,7 @@ Just a few to start with:
 
 - [Magento Bootstrap](https://github.com/cvaldemar/magento-bootstrap)
 - [Magento Boilerplate](https://github.com/jasonalvis/magento-boilerplate)
+- [Magento HTML5 Responsive Boilerplate](https://github.com/zeljkoprsa/waterlee-boilerplate)
 
 [↑ Back to top](#languages)
 
