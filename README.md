@@ -25,6 +25,10 @@ Just a few to start with:
 - [HTML5 Boilerplate and Twitter Bootstrap Skeleton](https://github.com/vesparny/codeigniter-html5boilerplate-twitter-bootstrap)
 - [Codeigniter Bootstrap](https://github.com/sjlu/CodeIgniter-Bootstrap)
 
+##### [Symfony](http://symfony.com)
+
+- [Symfony 2 Sonata Admin Boilerplate](https://github.com/liquidlabs/Symfony2-Sonata-Admin-Boilerplate)
+
 ##### [Yii](http://www.yiiframework.com)
 
 - [Yii Boilerplate](https://github.com/clevertech/yiiboilerplate)
