@@ -71,11 +71,14 @@ Just a few to start with:
 - [NG boilerplate](https://github.com/ngbp/ng-boilerplate)
 - [Angular Seed](https://github.com/angular/angular-seed)
 
-##### [Backbone](http://backbonejs.org/) and [Marionette](http://marionettejs.com/)
+##### [Backbone](http://backbonejs.org/)
+
+Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinjs.org/) built on top of BackBone.
 
 - [Backbone Boilerplate](https://github.com/backbone-boilerplate/backbone-boilerplate)
 - [Backbone-Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate)
 - [Marionette-Require Boilerplate](https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate)
+- [Chaplin Boilerplate](https://github.com/chaplinjs/chaplin-boilerplate)
 
 [↑ Back to top](#languages)
 
