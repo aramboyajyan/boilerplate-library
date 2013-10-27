@@ -122,6 +122,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Pinax](https://github.com/pinax/pinax)
 - [DjangoSkel](https://github.com/rdegges/django-skel)
 - [Django Front End Skeleton](https://github.com/jonfaustman/django-frontend-skeleton)
+- [Django App Skeleton](https://github.com/callowayproject/django-app-skeleton)
 
 [↑ Back to top](#languages)
 
