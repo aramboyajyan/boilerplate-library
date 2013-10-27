@@ -95,12 +95,14 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [TodoMVC with NodeJS backend](https://github.com/addyosmani/backbone-boilerplates/tree/master/option7_node_socketio)
 - [NodeJS TDD Boilerplate](https://github.com/BryanDonovan/nodejs-tdd-boilerplate)
 - [Express Boilerplate](https://github.com/mape/node-express-boilerplate)
+- [Node Express HTML5 Boilerplate](https://github.com/propercursive/node-express-html5boilerplate)
 
 ## Python
 
 ##### [Flask](http://flask.pocoo.org/)
 
 - [Flask Boilerplate](https://github.com/mjhea0/flask-boilerplate)
+- [Hello Flask](https://github.com/fogleman/HelloFlask)
 
 ##### [Django](https://www.djangoproject.com/)
 
