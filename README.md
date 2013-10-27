@@ -105,6 +105,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Hello Flask](https://github.com/fogleman/HelloFlask)
 - [FBone](https://github.com/imwilsonxu/fbone)
 - [Overholt](https://github.com/mattupstate/overholt)
+- [Flask Foundation](https://github.com/klen/Flask-Foundation)
 
 ##### [Django](https://www.djangoproject.com/)
 
