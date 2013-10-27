@@ -2,6 +2,11 @@
 
 A library of boilerplate projects for any framework and any programming language.
 
+#### What is the criteria for adding the projects?
+
+Usually, projects are required to have at least 10-20 stargazers and have been updated in the past 6 months or 1 year maximum, depending on the technology.  
+Projects can be hosted anywhere, but for now almost all of them are on Github, as it provides very easy and unified way to have a glance at source code, pending issues etc.
+
 ## Languages
 
 Just a few to start with:
