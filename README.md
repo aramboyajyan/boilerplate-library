@@ -86,6 +86,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Backbone-Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate)
 - [Marionette-Require Boilerplate](https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate)
 - [Chaplin Boilerplate](https://github.com/chaplinjs/chaplin-boilerplate)
+- [Backbone Skeleton with Sinatra backend](https://github.com/mihar/backbone-skeleton)
 
 [↑ Back to top](#languages)
 
