@@ -121,6 +121,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Django HTML5 Boilerplate](https://github.com/mike360/django-html5-boilerplate)
 - [Pinax](https://github.com/pinax/pinax)
 - [DjangoSkel](https://github.com/rdegges/django-skel)
+- [Django Front End Skeleton](https://github.com/jonfaustman/django-frontend-skeleton)
 
 [↑ Back to top](#languages)
 
