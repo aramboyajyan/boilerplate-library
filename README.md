@@ -128,6 +128,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [DjangoSkel](https://github.com/rdegges/django-skel)
 - [Django Front End Skeleton](https://github.com/jonfaustman/django-frontend-skeleton)
 - [Django App Skeleton](https://github.com/callowayproject/django-app-skeleton)
+- [DJ Skeletor](https://github.com/senko/dj-skeletor)
 
 [↑ Back to top](#languages)
 
