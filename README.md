@@ -81,6 +81,7 @@ Just a few to start with:
 
 - [NG boilerplate](https://github.com/ngbp/ng-boilerplate)
 - [Angular Seed](https://github.com/angular/angular-seed)
+- [Angular Brunch.io Seed](https://github.com/scotch/angular-brunch-seed)
 
 ##### [Backbone](http://backbonejs.org/)
 
