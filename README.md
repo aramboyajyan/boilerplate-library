@@ -180,3 +180,4 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 ## Other
 
 - [nginx Boilerplate](https://github.com/Umkus/nginx-boilerplate)
+- [Email Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
