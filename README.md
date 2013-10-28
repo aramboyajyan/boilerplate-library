@@ -18,6 +18,7 @@ Just a few to start with:
 - [ASP.NET](#aspnet)
 - [HTML](#html)
 - [Objective C](#objective-c)
+- [Other](#other)
 
 ## PHP
 
@@ -175,3 +176,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [iOS Boilerplate](https://github.com/gimenete/iOS-boilerplate)
 
 [↑ Back to top](#languages)
+
+## Other
+
+- [nginx Boilerplate](https://github.com/Umkus/nginx-boilerplate)
