@@ -15,6 +15,7 @@ Just a few to start with:
 - [JavaScript](#javascript)
 - [Python](#python)
 - [Ruby](#ruby)
+- [ASP.NET](#aspnet)
 - [HTML](#html)
 - [Objective C](#objective-c)
 
@@ -146,6 +147,12 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 
 [↑ Back to top](#languages)
 
+## ASP.NET
+
+- [AngularJS + ASP.NET Web API + TypeScript](https://github.com/kriasoft/angular-vs)
+
+[↑ Back to top](#languages)
+
 ## HTML
 
 - [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
@@ -161,6 +168,10 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 
 - [OSX Boilerplate](https://github.com/ChristianKienle/OSXBoilerplate)
 
+[↑ Back to top](#languages)
+
 ##### For iPhone/iPad
 
 - [iOS Boilerplate](https://github.com/gimenete/iOS-boilerplate)
+
+[↑ Back to top](#languages)
