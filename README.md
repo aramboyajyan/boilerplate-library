@@ -107,6 +107,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [NodeJS TDD Boilerplate](https://github.com/BryanDonovan/nodejs-tdd-boilerplate)
 - [Express Boilerplate](https://github.com/mape/node-express-boilerplate)
 - [Node Express HTML5 Boilerplate](https://github.com/propercursive/node-express-html5boilerplate)
+- [NodeJS Backbone Skeleton](https://github.com/brikis98/node-backbone-skeleton)
 
 ## Python
 
