@@ -34,6 +34,10 @@ Just a few to start with:
 
 - [Symfony 2 Sonata Admin Boilerplate](https://github.com/liquidlabs/Symfony2-Sonata-Admin-Boilerplate)
 
+##### [Silex](http://silex.sensiolabs.org/)
+
+- [Silex Skeleton](https://github.com/silexphp/Silex-Skeleton)
+
 ##### [Yii](http://www.yiiframework.com)
 
 - [Yii Boilerplate](https://github.com/clevertech/yiiboilerplate)
