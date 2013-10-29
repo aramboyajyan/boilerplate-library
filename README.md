@@ -46,6 +46,7 @@ Just a few to start with:
 
 ##### [Zend Framework](http://www.zend.com)
 
+- [Zend Framework Boilerplate](https://github.com/michael-romer/zf-boilerplate)
 - [Zend Framework Boilerplate 2](https://github.com/michael-romer/zfb2)
 
 ##### [Drupal](http://drupal.org/)
