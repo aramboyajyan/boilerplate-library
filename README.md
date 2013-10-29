@@ -187,5 +187,6 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [nginx Boilerplate](https://github.com/Umkus/nginx-boilerplate)
 - [Email Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
 - [Style Guide Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate)
+- [Firefox OS Boilerplate App](https://github.com/robnyman/Firefox-OS-Boilerplate-App)
 
 [↑ Back to top](#languages)
