@@ -96,8 +96,6 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Chaplin Boilerplate](https://github.com/chaplinjs/chaplin-boilerplate)
 - [Backbone Skeleton with Sinatra backend](https://github.com/mihar/backbone-skeleton)
 
-[↑ Back to top](#languages)
-
 ##### [ThreeJS](http://threejs.org/)
 
 - [ThreeJS Boilerplate](https://github.com/jeromeetienne/threejsboilerplate)
@@ -111,6 +109,12 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Express Boilerplate](https://github.com/mape/node-express-boilerplate)
 - [Node Express HTML5 Boilerplate](https://github.com/propercursive/node-express-html5boilerplate)
 - [NodeJS Backbone Skeleton](https://github.com/brikis98/node-backbone-skeleton)
+
+##### [Dojo Toolkit](http://dojotoolkit.org/)
+
+- [Dojo Boilerplate](https://github.com/csnover/dojo-boilerplate)
+
+[↑ Back to top](#languages)
 
 ## Python
 
@@ -181,3 +185,5 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 
 - [nginx Boilerplate](https://github.com/Umkus/nginx-boilerplate)
 - [Email Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
+
+[↑ Back to top](#languages)
