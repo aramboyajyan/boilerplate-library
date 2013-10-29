@@ -58,6 +58,7 @@ Just a few to start with:
 - [Roots Starter Theme](https://github.com/roots/roots)
 - [Bones Starter Theme](https://github.com/eddiemachado/bones)
 - [WordPress Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate)
+- [WordPress Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate)
 
 ##### [Magento](http://www.magentocommerce.com/)
 
