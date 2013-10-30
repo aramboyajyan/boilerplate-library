@@ -9,8 +9,6 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 
 ## Languages
 
-Just a few to start with:
-
 - [PHP](#php)
 - [JavaScript](#javascript)
 - [Python](#python)
@@ -18,6 +16,7 @@ Just a few to start with:
 - [ASP.NET](#aspnet)
 - [HTML](#html)
 - [Objective C](#objective-c)
+- [Java](#java)
 - [Other](#other)
 
 ## PHP
@@ -183,6 +182,14 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 ##### For iPhone/iPad
 
 - [iOS Boilerplate](https://github.com/gimenete/iOS-boilerplate)
+
+[↑ Back to top](#languages)
+
+## Java
+
+##### Android Development
+
+- [Android Bootstrap App](https://github.com/donnfelker/android-bootstrap)
 
 [↑ Back to top](#languages)
 
