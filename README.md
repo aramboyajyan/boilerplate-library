@@ -60,6 +60,7 @@ Just a few to start with:
 - [Bones Starter Theme](https://github.com/eddiemachado/bones)
 - [WordPress Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate)
 - [WordPress Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate)
+- [Skeleton WP Theme](https://github.com/simplethemes/skeleton_wp)
 
 ##### [Magento](http://www.magentocommerce.com/)
 
