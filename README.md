@@ -61,6 +61,7 @@ Just a few to start with:
 - [WordPress Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate)
 - [WordPress Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate)
 - [Skeleton WP Theme](https://github.com/simplethemes/skeleton_wp)
+- [WordPress Site Skeleton](https://github.com/markjaquith/WordPress-Skeleton)
 
 ##### [Magento](http://www.magentocommerce.com/)
 
