@@ -48,6 +48,7 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 
 - [Zend Framework Boilerplate](https://github.com/michael-romer/zf-boilerplate)
 - [Zend Framework Boilerplate 2](https://github.com/michael-romer/zfb2)
+- [Zend Skeleton Module](https://github.com/zendframework/ZendSkeletonModule)
 
 ##### [Drupal](http://drupal.org/)
 
@@ -202,6 +203,8 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 ## Scala
 
 - [Scala - Spring - Hibernate - Maven Webapp](https://github.com/GrahamLea/scala-spring-hibernate-maven-webapp)
+
+[↑ Back to top](#languages)
 
 ## Other
 
