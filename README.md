@@ -203,6 +203,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 ## Scala
 
 - [Scala - Spring - Hibernate - Maven Webapp](https://github.com/GrahamLea/scala-spring-hibernate-maven-webapp)
+- [Scalatra Prototype](https://github.com/scalatra/scalatra-sbt-prototype)
 
 [↑ Back to top](#languages)
 
