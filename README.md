@@ -17,6 +17,7 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 - [HTML](#html)
 - [Objective C](#objective-c)
 - [Java](#java)
+- [Scala](#scala)
 - [Other](#other)
 
 ## PHP
@@ -193,6 +194,10 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Android Bootstrap App](https://github.com/donnfelker/android-bootstrap)
 
 [↑ Back to top](#languages)
+
+## Scala
+
+- [Scala - Spring - Hibernate - Maven Webapp](https://github.com/GrahamLea/scala-spring-hibernate-maven-webapp)
 
 ## Other
 
