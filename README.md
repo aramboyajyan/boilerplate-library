@@ -104,6 +104,10 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 
 - [ThreeJS Boilerplate](https://github.com/jeromeetienne/threejsboilerplate)
 
+##### [Ember](http://emberjs.com/)
+
+- [Ember Skeleton](https://github.com/interline/ember-skeleton)
+
 ##### [NodeJS](http://nodejs.org)
 
 - [Conference Website Boilerplate](https://github.com/braziljs/conf-boilerplate)
