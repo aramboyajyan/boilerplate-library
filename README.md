@@ -197,6 +197,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 ##### Android Development
 
 - [Android Bootstrap App](https://github.com/donnfelker/android-bootstrap)
+- [Android Kickstartr](https://github.com/e-biz/androidkickstartr)
 
 [↑ Back to top](#languages)
 
