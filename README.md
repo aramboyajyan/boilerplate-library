@@ -161,6 +161,10 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Sinatra rspec bundler template](https://github.com/daddz/sinatra-rspec-bundler-template)
 - [Frank's Famous - a Heroku ready Sinatra boilerplate](https://github.com/kripy/franks-famous)
 
+##### [Capistrano](http://www.capistranorb.com/)
+
+- [Caphub](https://github.com/railsware/caphub)
+
 ##### Other
 
 - [Daemon Kit](https://github.com/kennethkalmer/daemon-kit)
