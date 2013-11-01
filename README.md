@@ -49,6 +49,7 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 - [Zend Framework Boilerplate](https://github.com/michael-romer/zf-boilerplate)
 - [Zend Framework Boilerplate 2](https://github.com/michael-romer/zfb2)
 - [Zend Skeleton Module](https://github.com/zendframework/ZendSkeletonModule)
+- [Apigility Skeleton Application](https://github.com/zfcampus/zf-apigility-skeleton)
 
 ##### [Drupal](http://drupal.org/)
 
