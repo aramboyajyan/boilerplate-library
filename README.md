@@ -194,6 +194,10 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 
 ## Java
 
+##### [Spring](http://spring.io/)
+
+- [Kickstart - Spring, Jersey and Hibernate](https://github.com/alesaudate/kickstart-springjerseyhibernate)
+
 ##### Android Development
 
 - [Android Bootstrap App](https://github.com/donnfelker/android-bootstrap)
