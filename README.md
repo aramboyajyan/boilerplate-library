@@ -160,6 +160,10 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Sinatra rspec bundler template](https://github.com/daddz/sinatra-rspec-bundler-template)
 - [Frank's Famous - a Heroku ready Sinatra boilerplate](https://github.com/kripy/franks-famous)
 
+##### Other
+
+- [Daemon Kit](https://github.com/kennethkalmer/daemon-kit)
+
 [↑ Back to top](#languages)
 
 ## ASP.NET
