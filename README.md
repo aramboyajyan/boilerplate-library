@@ -213,6 +213,10 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Android Bootstrap App](https://github.com/donnfelker/android-bootstrap)
 - [Android Kickstartr](https://github.com/e-biz/androidkickstartr)
 
+##### Other
+
+- [Grails Kickstart With Bootstrap](https://github.com/joergrech/KickstartWithBootstrap)
+
 [↑ Back to top](#languages)
 
 ## Scala
