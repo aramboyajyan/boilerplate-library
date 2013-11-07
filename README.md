@@ -139,6 +139,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Flask Foundation](https://github.com/klen/Flask-Foundation)
 - [Flask Bootstrap Skeleton](https://github.com/albertogg/flask-bootstrap-skel)
 - [Flask Skeleton](https://github.com/nickhs/flask_skeleton)
+- [Flask skeleton for Google App Engine with HTML5BP templating](https://github.com/zachwill/flask-engine)
 
 ##### [Django](https://www.djangoproject.com/)
 
