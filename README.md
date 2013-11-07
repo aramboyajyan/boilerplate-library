@@ -120,6 +120,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Express Boilerplate](https://github.com/mape/node-express-boilerplate)
 - [Node Express HTML5 Boilerplate](https://github.com/propercursive/node-express-html5boilerplate)
 - [NodeJS Backbone Skeleton](https://github.com/brikis98/node-backbone-skeleton)
+- [Express framework-less app structure generator](https://github.com/EtienneLem/skeleton)
 
 ##### [Dojo Toolkit](http://dojotoolkit.org/)
 
