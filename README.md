@@ -73,7 +73,7 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 - [Magento Boilerplate](https://github.com/jasonalvis/magento-boilerplate)
 - [Magento HTML5 Responsive Boilerplate](https://github.com/zeljkoprsa/waterlee-boilerplate)
 
-[↑ Back to top](#languages)
+[[⬆]](#languages)
 
 ## JavaScript
 
@@ -127,7 +127,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 
 - [Dojo Boilerplate](https://github.com/csnover/dojo-boilerplate)
 
-[↑ Back to top](#languages)
+[[⬆]](#languages)
 
 ## Python
 
@@ -155,7 +155,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Django Reusable App Template](https://github.com/bitmazk/django-reusable-app-template)
 - [Tangent Django Boilerplate](https://github.com/tangentlabs/tangent-django-boilerplate)
 
-[↑ Back to top](#languages)
+[[⬆]](#languages)
 
 ## Ruby
 
@@ -174,13 +174,13 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 
 - [Daemon Kit](https://github.com/kennethkalmer/daemon-kit)
 
-[↑ Back to top](#languages)
+[[⬆]](#languages)
 
 ## ASP.NET
 
 - [AngularJS + ASP.NET Web API + TypeScript](https://github.com/kriasoft/angular-vs)
 
-[↑ Back to top](#languages)
+[[⬆]](#languages)
 
 ## HTML
 
@@ -190,7 +190,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [320 and up](https://github.com/malarkey/320andup/)
 - [Skeleton - Responsive, Mobile-Friendly Development](https://github.com/dhg/Skeleton)
 
-[↑ Back to top](#languages)
+[[⬆]](#languages)
 
 ## Objective C
 
@@ -198,13 +198,13 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 
 - [OSX Boilerplate](https://github.com/ChristianKienle/OSXBoilerplate)
 
-[↑ Back to top](#languages)
+[[⬆]](#languages)
 
 ##### For iPhone/iPad
 
 - [iOS Boilerplate](https://github.com/gimenete/iOS-boilerplate)
 
-[↑ Back to top](#languages)
+[[⬆]](#languages)
 
 ## Java
 
@@ -221,14 +221,14 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 
 - [Grails Kickstart With Bootstrap](https://github.com/joergrech/KickstartWithBootstrap)
 
-[↑ Back to top](#languages)
+[[⬆]](#languages)
 
 ## Scala
 
 - [Scala - Spring - Hibernate - Maven Webapp](https://github.com/GrahamLea/scala-spring-hibernate-maven-webapp)
 - [Scalatra Prototype](https://github.com/scalatra/scalatra-sbt-prototype)
 
-[↑ Back to top](#languages)
+[[⬆]](#languages)
 
 ## Other
 
@@ -237,4 +237,4 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Style Guide Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate)
 - [Firefox OS Boilerplate App](https://github.com/robnyman/Firefox-OS-Boilerplate-App)
 
-[↑ Back to top](#languages)
+[[⬆]](#languages)
