@@ -224,6 +224,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 ##### Other
 
 - [Grails Kickstart With Bootstrap](https://github.com/joergrech/KickstartWithBootstrap)
+- [Java/Maven Kickstart Project](https://github.com/panter/ch.panter.projectzero)
 
 [[⬆]](#languages)
 
