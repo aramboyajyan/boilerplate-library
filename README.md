@@ -127,6 +127,10 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 
 - [Dojo Boilerplate](https://github.com/csnover/dojo-boilerplate)
 
+##### [Phonegap](http://phonegap.com/) and [Apache Cordova](http://cordova.apache.org/)
+
+- [jQuery Mobile Boilerplate](https://github.com/sebbie1o1/cordova-jquerymobile-boilerplate)
+
 [[⬆]](#languages)
 
 ## Python
