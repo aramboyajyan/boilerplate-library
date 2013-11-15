@@ -244,5 +244,6 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Email Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
 - [Style Guide Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate)
 - [Firefox OS Boilerplate App](https://github.com/robnyman/Firefox-OS-Boilerplate-App)
+- [HTML5 Boilerplate Server Configs](https://github.com/h5bp/server-configs)
 
 [[⬆]](#languages)
