@@ -158,6 +158,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [DJ Skeletor](https://github.com/senko/dj-skeletor)
 - [Django Reusable App Template](https://github.com/bitmazk/django-reusable-app-template)
 - [Tangent Django Boilerplate](https://github.com/tangentlabs/tangent-django-boilerplate)
+- [Vagrant Django Template](https://github.com/torchbox/vagrant-django-template)
 
 [[⬆]](#languages)
 
