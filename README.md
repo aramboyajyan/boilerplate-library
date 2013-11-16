@@ -74,6 +74,10 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 - [Magento Boilerplate](https://github.com/jasonalvis/magento-boilerplate)
 - [Magento HTML5 Responsive Boilerplate](https://github.com/zeljkoprsa/waterlee-boilerplate)
 
+##### Other
+
+- [PHP Skeleton](https://github.com/koriym/PHP.Skeleton)
+
 [[⬆]](#languages)
 
 ## JavaScript
