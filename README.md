@@ -108,6 +108,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Marionette-Require Boilerplate](https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate)
 - [Chaplin Boilerplate](https://github.com/chaplinjs/chaplin-boilerplate)
 - [Backbone Skeleton with Sinatra backend](https://github.com/mihar/backbone-skeleton)
+- [Single-page App Boilerplate](https://github.com/davidjnelson/single-page-app-boilerplate)
 
 ##### [ThreeJS](http://threejs.org/)
 
