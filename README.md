@@ -179,6 +179,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Riblits](https://github.com/Phrogz/riblits)
 - [Sinatra rspec bundler template](https://github.com/daddz/sinatra-rspec-bundler-template)
 - [Frank's Famous - a Heroku ready Sinatra boilerplate](https://github.com/kripy/franks-famous)
+- [Boilerplate with Require.js, jQuery, Underscore, Backbone, SASS, Slim, Coffee-Script, Livereload w/ Grunt](https://github.com/naoya/boilerplate)
 
 ##### [Capistrano](http://www.capistranorb.com/)
 
