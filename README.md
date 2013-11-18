@@ -144,6 +144,10 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 
 ## Python
 
+##### Vanilla
+
+- [Starter Skeleton for Python Applications](https://github.com/d9pouces/StarterPyth)
+
 ##### [Flask](http://flask.pocoo.org/)
 
 - [Flask Boilerplate](https://github.com/mjhea0/flask-boilerplate)
