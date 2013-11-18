@@ -91,6 +91,7 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 ##### [jQuery](http://jquery.com)
 
 - [jQuery Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate/)
+- [jQuery Plugin Boilerplate](https://github.com/websanova/boilerplate)
 
 ##### [AngularJS](http://angularjs.org)
 
