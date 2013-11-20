@@ -262,5 +262,6 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Firefox OS Boilerplate App](https://github.com/robnyman/Firefox-OS-Boilerplate-App)
 - [HTML5 Boilerplate Server Configs](https://github.com/h5bp/server-configs)
 - [CIS Security Benchmark Kickstarts](https://github.com/major/securekickstarts)
+- [Kickstart Files for Red Hat Based Installations](https://github.com/major/kickstarts)
 
 [[⬆]](#languages)
