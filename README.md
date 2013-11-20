@@ -200,6 +200,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 ## ASP.NET
 
 - [AngularJS + ASP.NET Web API + TypeScript](https://github.com/kriasoft/angular-vs)
+- [MVC Kickstart](https://github.com/jgeurts/MvcKickstart)
 
 [[⬆]](#languages)
 
