@@ -266,5 +266,6 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [HTML5 Boilerplate Server Configs](https://github.com/h5bp/server-configs)
 - [CIS Security Benchmark Kickstarts](https://github.com/major/securekickstarts)
 - [Kickstart Files for Red Hat Based Installations](https://github.com/major/kickstarts)
+- [Jekyll Front-end Skeleton](https://github.com/andrewdisley/front-end-skeleton)
 
 [[⬆]](#languages)
