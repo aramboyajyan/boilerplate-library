@@ -114,6 +114,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Backbone Boilerplate](https://github.com/thomasdavis/backboneboilerplate)
 - [RequireJS and Backbone Starter](https://github.com/NETTUTS/RequireJS-and-Backbone-Starter)
 - [Modular Backbone Project Template](https://github.com/dzejkej/modular-backbone)
+- [Thorax Seed](https://github.com/walmartlabs/thorax-seed)
 
 ##### [ThreeJS](http://threejs.org/)
 
