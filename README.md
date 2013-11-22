@@ -67,6 +67,7 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 - [WordPress Site Skeleton](https://github.com/markjaquith/WordPress-Skeleton)
 - [WordPress Plugin Skeleton](https://github.com/iandunn/WordPress-Plugin-Skeleton)
 - [WordPress Skeleton Theme](https://github.com/wycks/WP-Skeleton-Theme)
+- [Kickstart WordPress Theme](https://github.com/gerritvanaaken/WP-Kickstart)
 
 ##### [Magento](http://www.magentocommerce.com/)
 
