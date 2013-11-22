@@ -214,6 +214,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Twitter Bootstrap](http://getbootstrap.com)
 - [320 and up](https://github.com/malarkey/320andup/)
 - [Skeleton - Responsive, Mobile-Friendly Development](https://github.com/dhg/Skeleton)
+- [HTML Kickstart](https://github.com/joshuagatcke/HTML-KickStart)
 
 [[⬆]](#languages)
 
