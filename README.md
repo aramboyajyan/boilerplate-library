@@ -13,6 +13,7 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 - [JavaScript](#javascript)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Go](#go)
 - [ASP.NET](#aspnet)
 - [HTML](#html)
 - [Objective C](#objective-c)
@@ -198,6 +199,12 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 ##### Other
 
 - [Daemon Kit](https://github.com/kennethkalmer/daemon-kit)
+
+[[⬆]](#languages)
+
+## Go
+
+- [Gonet - Game Server Skeleton](https://github.com/xtaci/gonet)
 
 [[⬆]](#languages)
 
