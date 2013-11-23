@@ -276,5 +276,6 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [CIS Security Benchmark Kickstarts](https://github.com/major/securekickstarts)
 - [Kickstart Files for Red Hat Based Installations](https://github.com/major/kickstarts)
 - [Jekyll Front-end Skeleton](https://github.com/andrewdisley/front-end-skeleton)
+- [Tumblr Boilerplate](https://github.com/davesantos/tumblr-boilerplate)
 
 [[⬆]](#languages)
