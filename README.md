@@ -138,6 +138,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Node Express HTML5 Boilerplate](https://github.com/propercursive/node-express-html5boilerplate)
 - [NodeJS Backbone Skeleton](https://github.com/brikis98/node-backbone-skeleton)
 - [Express framework-less app structure generator](https://github.com/EtienneLem/skeleton)
+- [Genesis Skeleton - Express, GruntJS, LiveReload, Bootstrap, Bower, Karma](https://github.com/ericclemmons/genesis-skeleton)
 
 ##### [Dojo Toolkit](http://dojotoolkit.org/)
 
