@@ -284,5 +284,6 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Jekyll Front-end Skeleton](https://github.com/andrewdisley/front-end-skeleton)
 - [Tumblr Boilerplate](https://github.com/davesantos/tumblr-boilerplate)
 - [OCaml Skeleton Project](https://github.com/wickedchicken/ocaml_skeleton)
+- [Compass HTML5 Boilerplate](https://github.com/sporkd/compass-html5-boilerplate)
 
 [[⬆]](#languages)
