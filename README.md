@@ -283,5 +283,6 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Kickstart Files for Red Hat Based Installations](https://github.com/major/kickstarts)
 - [Jekyll Front-end Skeleton](https://github.com/andrewdisley/front-end-skeleton)
 - [Tumblr Boilerplate](https://github.com/davesantos/tumblr-boilerplate)
+- [OCaml Skeleton Project](https://github.com/wickedchicken/ocaml_skeleton)
 
 [[⬆]](#languages)
