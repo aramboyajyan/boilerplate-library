@@ -26,6 +26,7 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 ##### [Slim](http://slimframework.com)
 
 - [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton)
+- [Slim and Jade Boilerplate](https://github.com/w33ble/slim-jade)
 
 ##### [CodeIgniter](http://codeigniter.com)
 
