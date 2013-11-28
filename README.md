@@ -41,6 +41,7 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 ##### [Silex](http://silex.sensiolabs.org/)
 
 - [Silex Skeleton](https://github.com/silexphp/Silex-Skeleton)
+- [Silicone Skeleton](https://github.com/elfet/silicone-skeleton)
 
 ##### [Yii](http://www.yiiframework.com)
 
