@@ -130,6 +130,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 ##### [Ember](http://emberjs.com/)
 
 - [Ember Skeleton](https://github.com/interline/ember-skeleton)
+- [Brunch With Ember Reloaded](https://github.com/gcollazo/brunch-with-ember-reloaded)
 
 ##### [NodeJS](http://nodejs.org)
 
