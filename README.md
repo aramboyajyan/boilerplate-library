@@ -153,6 +153,10 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 
 - [jQuery Mobile Boilerplate](https://github.com/sebbie1o1/cordova-jquerymobile-boilerplate)
 
+##### Other
+
+- [Rendr App Template](https://github.com/airbnb/rendr/tree/master/examples/00_simple)
+
 [[⬆]](#languages)
 
 ## Python
