@@ -144,6 +144,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [NodeJS Backbone Skeleton](https://github.com/brikis98/node-backbone-skeleton)
 - [Express framework-less app structure generator](https://github.com/EtienneLem/skeleton)
 - [Genesis Skeleton - Express, GruntJS, LiveReload, Bootstrap, Bower, Karma](https://github.com/ericclemmons/genesis-skeleton)
+- [Kickstart - Starter Template With Grunt, Bower, LiveReload, LESS, Jade, RequireJS, and JSHint](https://github.com/felixlaumon/kickstart)
 
 ##### [Dojo Toolkit](http://dojotoolkit.org/)
 
