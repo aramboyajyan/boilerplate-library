@@ -292,5 +292,6 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Tumblr Boilerplate](https://github.com/davesantos/tumblr-boilerplate)
 - [OCaml Skeleton Project](https://github.com/wickedchicken/ocaml_skeleton)
 - [Compass HTML5 Boilerplate](https://github.com/sporkd/compass-html5-boilerplate)
+- [Extreme Startup skeleton server implementations in various frameworks and languages.](https://github.com/steria/extreme_startup_servers)
 
 [[⬆]](#languages)
