@@ -212,6 +212,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 ##### Other
 
 - [Daemon Kit](https://github.com/kennethkalmer/daemon-kit)
+- [Service Skeleton using Grape/Roar/ActiveRecord](https://github.com/reverbdev/service-skeleton)
 
 [[⬆]](#languages)
 
