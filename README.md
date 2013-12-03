@@ -157,6 +157,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 ##### Other
 
 - [Rendr App Template](https://github.com/airbnb/rendr/tree/master/examples/00_simple)
+- [Require.js Library Skeleton](https://github.com/sahat/requirejs-library)
 
 [[⬆]](#languages)
 
