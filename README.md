@@ -212,6 +212,10 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 
 - [Caphub](https://github.com/railsware/caphub)
 
+##### [Ruby on Rails](http://rubyonrails.org/)
+
+- [Skeleton for new Rails based projects](https://github.com/fs/rails-base)
+
 ##### Other
 
 - [Daemon Kit](https://github.com/kennethkalmer/daemon-kit)
