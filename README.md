@@ -197,6 +197,10 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Tangent Django Boilerplate](https://github.com/tangentlabs/tangent-django-boilerplate)
 - [Vagrant Django Template](https://github.com/torchbox/vagrant-django-template)
 
+##### Other
+
+- [Tornado Production Skeleton](https://github.com/bdarnell/tornado-production-skeleton)
+
 [[⬆]](#languages)
 
 ## Ruby
