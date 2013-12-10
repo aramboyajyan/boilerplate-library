@@ -84,6 +84,7 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 - [PHP Skeleton](https://github.com/koriym/PHP.Skeleton)
 - [Bluz Skeleton Application](https://github.com/bluzphp/skeleton)
 - [PPI Skeleton Application](https://github.com/ppi/skeletonapp)
+- [Orchestra Platform 2 Application Skeleton](https://github.com/orchestral/platform)
 
 [[⬆]](#languages)
 
