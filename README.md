@@ -162,6 +162,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Brunch with hipsters](https://github.com/elving/brunch-with-hipsters)
 - [Brunch with eggs and bacon - skeleton for Brunch.io, with SASS, LESS, Handlebars and Backbone.Mediator](https://github.com/nezoomie/brunch-eggs-and-bacon)
 - [RequireJS / Jasmine / r.js / almond skeleton for javascript libraries and modules](https://github.com/tkellen/requirejs-library-skeleton)
+- [Chrome Application Boilerplate](https://github.com/mahemoff/chrome-boilerplate)
 
 [[⬆]](#languages)
 
