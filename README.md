@@ -124,6 +124,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Modular Backbone Project Template](https://github.com/dzejkej/modular-backbone)
 - [Thorax Seed](https://github.com/walmartlabs/thorax-seed)
 - [Backbone Bootstrap](https://github.com/opensas/BackboneBootstrap)
+- [Backbone Single Page Application Scaffold](https://github.com/mundizzle/Single-Page-Application-Scaffold)
 
 ##### [ThreeJS](http://threejs.org/)
 
