@@ -149,6 +149,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Kickstart - Starter Template With Grunt, Bower, LiveReload, LESS, Jade, RequireJS, and JSHint](https://github.com/felixlaumon/kickstart)
 - [Angular Express Seed](https://github.com/btford/angular-express-seed)
 - [MEAN starting point - Mongo, Express, Angular, Node](https://github.com/linnovate/mean)
+- [Express secure skeleton](https://github.com/evilpacket/express-secure-skeleton)
 
 ##### [Dojo Toolkit](http://dojotoolkit.org/)
 
