@@ -147,6 +147,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Genesis Skeleton - Express, GruntJS, LiveReload, Bootstrap, Bower, Karma](https://github.com/ericclemmons/genesis-skeleton)
 - [Kickstart - Starter Template With Grunt, Bower, LiveReload, LESS, Jade, RequireJS, and JSHint](https://github.com/felixlaumon/kickstart)
 - [Angular Express Seed](https://github.com/btford/angular-express-seed)
+- [MEAN starting point - Mongo, Express, Angular, Node](https://github.com/linnovate/mean)
 
 ##### [Dojo Toolkit](http://dojotoolkit.org/)
 
