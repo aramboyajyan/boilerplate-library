@@ -72,6 +72,7 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 - [WordPress Skeleton Theme](https://github.com/wycks/WP-Skeleton-Theme)
 - [Kickstart WordPress Theme](https://github.com/gerritvanaaken/WP-Kickstart)
 - [WordPress Starter](https://github.com/bueltge/WordPress-Starter)
+- [HTML5 Boilerplate for WordPress](https://github.com/zencoder/html5-boilerplate-for-wordpress)
 
 ##### [Magento](http://www.magentocommerce.com/)
 
@@ -229,6 +230,11 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 
 - [Skeleton for new Rails based projects](https://github.com/fs/rails-base)
 
+##### Jekyll
+
+- [Jekyll Boilerplate](https://github.com/necolas/jekyll-boilerplate)
+- [Jekyll Front-end Skeleton](https://github.com/andrewdisley/front-end-skeleton)
+
 ##### Other
 
 - [Daemon Kit](https://github.com/kennethkalmer/daemon-kit)
@@ -309,7 +315,6 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [HTML5 Boilerplate Server Configs](https://github.com/h5bp/server-configs)
 - [CIS Security Benchmark Kickstarts](https://github.com/major/securekickstarts)
 - [Kickstart Files for Red Hat Based Installations](https://github.com/major/kickstarts)
-- [Jekyll Front-end Skeleton](https://github.com/andrewdisley/front-end-skeleton)
 - [Tumblr Boilerplate](https://github.com/davesantos/tumblr-boilerplate)
 - [OCaml Skeleton Project](https://github.com/wickedchicken/ocaml_skeleton)
 - [Compass HTML5 Boilerplate](https://github.com/sporkd/compass-html5-boilerplate)
