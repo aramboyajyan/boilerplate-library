@@ -236,6 +236,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Jekyll Front-end Skeleton](https://github.com/andrewdisley/front-end-skeleton)
 - [Jekyll Bootstrap](https://github.com/plusjade/jekyll-bootstrap)
 - [Foxslide](https://github.com/sevenadrian/foxslide)
+- [Jekyll Bootstrap Theme](https://github.com/nhoss2/jekyll-bootstrap)
 
 ##### Other
 
