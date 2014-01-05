@@ -234,6 +234,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 
 - [Jekyll Boilerplate](https://github.com/necolas/jekyll-boilerplate)
 - [Jekyll Front-end Skeleton](https://github.com/andrewdisley/front-end-skeleton)
+- [Jekyll Bootstrap](https://github.com/plusjade/jekyll-bootstrap)
 
 ##### Other
 
