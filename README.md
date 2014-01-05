@@ -95,6 +95,7 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 - [JavaScript Boilerplate](https://github.com/mdarif/JavaScript-Boilerplate)
 - [JavaScript Project Boilerplate](https://github.com/young-steveo/javascript-project-boilerplate)
 - [JavaScript Library Boilerplate](https://github.com/cowboy/javascript-library-boilerplate)
+- [Boilerplate JS](https://github.com/ectechno/boilerplatejs)
 
 ##### [jQuery](http://jquery.com)
 
