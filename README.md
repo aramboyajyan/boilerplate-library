@@ -54,6 +54,7 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 - [Zend Skeleton Module](https://github.com/zendframework/ZendSkeletonModule)
 - [Zend Skeleton Application](https://github.com/zendframework/ZendSkeletonApplication)
 - [Apigility Skeleton Application](https://github.com/zfcampus/zf-apigility-skeleton)
+- [Zend Framework Restful Module Skeleton](https://github.com/scaraveos/ZF2-Restful-Module-Skeleton)
 
 ##### [Drupal](http://drupal.org/)
 
