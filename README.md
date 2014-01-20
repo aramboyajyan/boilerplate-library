@@ -230,6 +230,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 ##### [Ruby on Rails](http://rubyonrails.org/)
 
 - [Skeleton for new Rails based projects](https://github.com/fs/rails-base)
+- [Suspenders: a Rails 4 template ready for deploying to Heroku](https://github.com/thoughtbot/suspenders)
 
 ##### Jekyll
 
