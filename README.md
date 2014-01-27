@@ -59,6 +59,7 @@ Projects can be hosted anywhere, but for now almost all of them are on Github, a
 ##### [Drupal](http://drupal.org/)
 
 - [Drupal Boilerplate](https://github.com/Lullabot/drupal-boilerplate)
+- [Open Framework theme by Stanford; built on Bootstrap](https://github.com/SU-SWS/open_framework)
 
 ##### [WordPress](http://wordpress.org)
 
