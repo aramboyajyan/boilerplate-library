@@ -153,6 +153,7 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Angular Express Seed](https://github.com/btford/angular-express-seed)
 - [MEAN starting point - Mongo, Express, Angular, Node](https://github.com/linnovate/mean)
 - [Express secure skeleton](https://github.com/evilpacket/express-secure-skeleton)
+- [Hackathon Starter](https://github.com/sahat/hackathon-starter)
 
 ##### [Dojo Toolkit](http://dojotoolkit.org/)
 
