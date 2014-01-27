@@ -327,5 +327,6 @@ Includes [Marionette](http://marionettejs.com/) and [Chaplin.js](http://chaplinj
 - [Compass HTML5 Boilerplate](https://github.com/sporkd/compass-html5-boilerplate)
 - [Extreme Startup skeleton server implementations in various frameworks and languages.](https://github.com/steria/extreme_startup_servers)
 - [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme)
+- [Skeleton homebase for Ironfan and Chef](https://github.com/infochimps-labs/ironfan-homebase)
 
 [[⬆]](#languages)
