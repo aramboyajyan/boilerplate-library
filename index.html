@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Boilerplate Library</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- styles -->
+<link type="text/css" rel="stylesheet" href="css/lib/normalize-3.0.2.css" />
+<link type="text/css" rel="stylesheet" href="css/main.css" />
+<link type="text/css" rel="stylesheet" href="css/quickfix.css" />
+<!-- /styles -->
+
+<!--
+Notes, for those who want to inspect the source:
+  - The code is absolutely not optimized. Be prepared for what you will see.
+  - Yes, I used Angular only to get the filter-goodness.
+  - This whole thing was built in ~20 minutes. Before whining about using X in
+    such and such way, contemplate this. And the fact that I won't give a damn.
+-->
+
+</head>
+<body ng-app="boilerplateLibraryApp">
+
+<!-- #main -->
+<div id="main" ng-controller="boilerplateLibraryController as boilerplateLibrary">
+
+  <!-- #header -->
+  <header id="header">
+    <h1>Boilerplate library</h1>
+    <p>A library of boilerplate projects for any framework and any programming language.</p>
+  </header>
+  <!-- /#header -->
+
+  <!-- #content -->
+  <section id="content">
+    
+    <!-- #search -->
+    <div id="search">
+      <input id="field-search" type="text" placeholder="Search for a project" ng-model="projectTitle">
+      <select id="field-language" ng-model="projectLanguage">
+        <option value="all" selected>All programming languages</option>
+        <option value="php">PHP</option>
+        <option value="javascript">JavaScript</option>
+        <option value="python">Python</option>
+        <option value="ruby">Ruby</option>
+        <option value="go">Go</option>
+        <option value="perl">Perl</option>
+        <option value="java">Java</option>
+        <option value="dotnet">.NET</option>
+      </select>
+      <!-- TODO: tags / frameworks (e.g. Flask, Django, Sinatra, etc.) -->
+    </div>
+    <!-- /#search -->
+    
+    <!-- #results -->
+    <div id="results">
+      
+      <div class="result" ng-repeat="project in boilerplateLibrary.projects | filter:{title:projectTitle} | filter:{language:projectLanguage}">
+        <h3><a href="https://github.com/{{ project.url }}" target="_blank">{{ project.title }}</a></h3>
+        <p><a href="https://github.com/{{ project.url }}" target="_blank">View project</a></p>
+        <span class="language {{ project.language }}">
+          <i class="bullet"></i>
+          <i class="caret"></i>
+          <span>{{ project.language }}</span>
+        </span>
+      </div>
+
+    </div>
+    <!-- /#results -->
+
+  </section>
+  <!-- /#content -->
+  
+  <!-- #footer -->
+  <footer id="footer">
+    <p>View on <a href="https://github.com/topsitemakers/boilerplate-library">Github</a>.</p>
+    <p>Created by: <a href="http://www.topsitemakers.com/" target="_blank">topsitemakers.com</a>.</p>
+  </footer>
+  <!-- #footer -->
+
+</div>
+<!-- /#main -->
+
+
+<!-- scripts -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.6/angular.min.js"></script>
+<script type="text/javascript" src="js/lib/modernizr-2.8.2.min.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+<!-- /scripts -->
+
+</body>
+</html>
