@@ -41,7 +41,6 @@ Notes, for those who want to inspect the source:
     <div id="search">
       <input id="field-search" type="text" placeholder="Search for a project" ng-model="projectTitle">
       <select id="field-language" ng-model="projectLanguage">
-        <option value="all" selected>All programming languages</option>
         <option value="php">PHP</option>
         <option value="javascript">JavaScript</option>
         <option value="python">Python</option>
@@ -58,7 +57,7 @@ Notes, for those who want to inspect the source:
     <!-- #results -->
     <div id="results">
       
-      <div class="result" ng-repeat="project in boilerplateLibrary.projects | filter:{title:projectTitle} | filter:{language:projectLanguage}">
+      <div class="result" ng-repeat="project in projectsToShow = (boilerplateLibrary.projects | filter:{title:projectTitle} | filter:{language:projectLanguage})">
         <h3><a href="https://github.com/{{ project.url }}" target="_blank">{{ project.title }}</a></h3>
         <p><a href="https://github.com/{{ project.url }}" target="_blank">View project</a></p>
         <span class="language {{ project.language }}">
@@ -67,6 +66,8 @@ Notes, for those who want to inspect the source:
           <span>{{ project.language }}</span>
         </span>
       </div>
+
+      <div id="no-results" ng-hide="projectsToShow.length">No projects found. <a href="https://github.com/topsitemakers/boilerplate-library">Add one!</a></div>
 
     </div>
     <!-- /#results -->

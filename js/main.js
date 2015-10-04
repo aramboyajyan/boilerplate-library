@@ -8,9 +8,11 @@
  */
 
 angular.module('boilerplateLibraryApp', [])
-  .controller('boilerplateLibraryController', function() {
-    this.projectLanguage = 'all';
-    // Load the list of projects.
+  .controller('boilerplateLibraryController', function($scope, $http) {
+    // Default project language.
+    $scope.projectLanguage = 'php';
+
+    // // Load the list of projects.
     this.projects = [
       // PHP projects.
         {title: 'Slim-Skeleton', url: 'slimphp/Slim-Skeleton', language: 'php'},

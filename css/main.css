@@ -166,7 +166,8 @@ header p {
 #no-results {
   background: #F9F9A0;
   padding: 10px 20px;
-  color: #999;
+  color: #555;
+  margin-bottom: 10px;
 }
 /* Content styles end */
 
